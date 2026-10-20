@@ -1,0 +1,2 @@
+# GEO-AI-SEMESTER-2
+Tugas AI
